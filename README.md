@@ -22,8 +22,9 @@ The script for macOS will kill:
 - Creative Cloud Helper
 - CCXProcess
 - Core Sync
+- ACCFinderSync
 - CCLibrary
 
 ### Windows
 
-// Not yet supported, TODO
+> Not supported yet, TODO
