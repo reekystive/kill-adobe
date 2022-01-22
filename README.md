@@ -2,11 +2,11 @@
 
 After you quit all Adobe apps, there will be several processes running in the background. If you kill these processes, they will run again the next time you start the Adobe apps. You cannot delete these executables because Adobe apps require them.
 
-There are some scripts to kill Adobe background processes.
+The script in this repo is used to kill Adobe background processes.
 
-## Warring
+## Warning
 
-**Do NOT use this script when you are using any Adobe apps. They will quit immediately and you will lose your data.**
+**Do NOT run this script when any Adobe app is open. They will quit immediately and you will lose your data.**
 
 Do NOT use this script if you are using Creative Cloud to sync your files. Otherwise they will stop syncing.
 
